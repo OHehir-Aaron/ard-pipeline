@@ -1,6 +1,6 @@
 [DataStandardisation]
 workflow = NBAR
-vertices = (3, 3)
+vertices = (5, 5)
 modtran_exe = mod6c_cons
 srtm_pathname = /g/data/v10/eoancillarydata-2/elevation/tc_aus_3sec/dsm1sv1_0_Clean.h5:/SRTM/GA-DSM
 cop_pathname = /g/data/v10/eoancillarydata-2/elevation/copernicus_30m/copernicus-30m-dem.tif
